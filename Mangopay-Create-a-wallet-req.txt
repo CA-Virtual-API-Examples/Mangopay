@@ -1,0 +1,10 @@
+GROUP-NAME:Wallets
+PAIR-NAME:Create a wallet
+POST /wallets
+
+{
+"Owners": ["1167492"],
+"Description": "A very cool wallet",
+"Currency": "EUR",
+"Tag": "your custom tag"
+}
