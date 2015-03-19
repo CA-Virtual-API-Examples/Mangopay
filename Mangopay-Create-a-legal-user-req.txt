@@ -1,0 +1,17 @@
+GROUP-NAME:Users
+PAIR-NAME:Create a legal user
+POST /users/legal
+
+{
+"Name": "MangoPay",
+"Email": "info@mangopay.com",
+"LegalPersonType": "BUSINESS",
+"LegalRepresentativeFirstName": "Mango",
+"LegalRepresentativeLastName": "Pay",
+"LegalRepresentativeEmail": "mango@mangopay.com",
+"HeadquartersAddress": "1 rue MangoPay, Paris", 
+"LegalRepresentativeBirthday": 1300186358, 
+"LegalRepresentativeNationality": "FR", 
+"LegalRepresentativeCountryOfResidence": "FR", 
+"Tag": "custom tag"
+}
