@@ -1,0 +1,19 @@
+200
+
+{
+    "FirstName": "{{=[:First Name:]}}",
+    "LastName": "{{=[:Last Name:]}}",
+    "Address": "{{=[:Street Address:]}}",
+    "Birthday": 1382605938,
+    "Nationality": "FR",
+    "CountryOfResidence": "FR",
+    "Occupation": "author",
+    "IncomeRange": 6,
+    "ProofOfIdentity": null,
+    "ProofOfAddress": null,
+    "PersonType": "NATURAL",
+    "Email": "{{=[:Email:]}}",
+    "Id": "{user_id}",
+    "Tag": null,
+    "CreationDate": 1382605938
+}
