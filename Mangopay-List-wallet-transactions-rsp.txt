@@ -1,0 +1,58 @@
+200
+
+[
+{
+"Id": "1169215",
+"Tag": "my transfer",
+"CreationDate": 1383156787,
+"AuthorId": "1167492",
+"CreditedUserId": "1167502",
+"DebitedFunds": {
+"Currency": "EUR",
+"Amount": 100
+},
+"CreditedFunds": {
+"Currency": "EUR",
+"Amount": 0
+},
+"Fees": {
+"Currency": "EUR",
+"Amount": 100
+},
+"Status": "SUCCEEDED",
+"ResultCode": "000000",
+"ResultMessage": "Success",
+"ExecutionDate": 1383156788,
+"Type": "TRANSFER",
+"Nature": "REGULAR",
+"CreditedWalletId": "{wallet_id}",
+"DebitedWalletId": "1167494"
+},
+{
+"Id": "1169213",
+"Tag": "my transfer",
+"CreationDate": 1383156751,
+"AuthorId": "1167492",
+"CreditedUserId": "1167502",
+"DebitedFunds": {
+"Currency": "EUR",
+"Amount": 100000
+},
+"CreditedFunds": {
+"Currency": "EUR",
+"Amount": 99900
+},
+"Fees": {
+"Currency": "EUR",
+"Amount": 100
+},
+"Status": "FAILED",
+"ResultCode": "001001",
+"ResultMessage": "Insufficient wallet balance",
+"ExecutionDate": null,
+"Type": "TRANSFER",
+"Nature": "REGULAR",
+"CreditedWalletId": "{wallet_id}",
+"DebitedWalletId": "1167494"
+}
+]
