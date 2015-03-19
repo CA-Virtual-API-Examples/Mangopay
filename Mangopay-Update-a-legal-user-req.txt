@@ -1,0 +1,7 @@
+GROUP-NAME:Users
+PAIR-NAME:Update a legal user
+PUT /users/legal/{Id}
+
+{
+"Name": "MangoPay edited"
+}
