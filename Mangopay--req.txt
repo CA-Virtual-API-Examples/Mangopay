@@ -1,4 +1,0 @@
-GROUP-NAME:Users
-PAIR-NAME:
-GET /path/id-18574/{resource}
-
