@@ -1,0 +1,4 @@
+GROUP-NAME:Users
+PAIR-NAME:List all users
+GET /users
+
