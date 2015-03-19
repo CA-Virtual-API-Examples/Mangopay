@@ -1,0 +1,4 @@
+GROUP-NAME:Users
+PAIR-NAME:List user's transactions
+GET /users/{user_id}/transactions
+
