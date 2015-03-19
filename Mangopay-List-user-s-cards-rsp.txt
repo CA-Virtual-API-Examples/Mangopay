@@ -1,0 +1,36 @@
+200
+
+[
+    {
+    "ExpirationDate": "1214",
+    "Alias": "375987XXXXX0006",
+    "CardType": "CB_VISA_MASTERCARD",
+    "CardProvider": "CB",
+    "Country": "",
+    "Product": "",
+    "BankCode": "",
+    "Active": true,
+    "Currency": "EUR",
+    "Validity": "VALID",
+    "UserId": "{user_id}",
+    "Id": "1174824",
+    "Tag": null,
+    "CreationDate": 1385638979
+    },
+    {
+    "ExpirationDate": "1214",
+    "Alias": "370000XXXXX0044",
+    "CardType": "CB_VISA_MASTERCARD",
+    "CardProvider": "CB",
+    "Country": "",
+    "Product": "",
+    "BankCode": "",
+    "Active": true,
+    "Currency": "USD",
+    "Validity": "UNKNOWN",
+    "UserId": "{user_id}",
+    "Id": "1174826",
+    "Tag": null,
+    "CreationDate": 1385639064
+    }
+]
