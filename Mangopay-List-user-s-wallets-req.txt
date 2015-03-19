@@ -1,0 +1,4 @@
+GROUP-NAME:Users
+PAIR-NAME:List user's wallets
+GET /users/{user_Id}/wallets
+
