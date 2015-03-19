@@ -1,0 +1,4 @@
+GROUP-NAME:Users
+PAIR-NAME:Fetch a user
+GET /users/{user_id}
+
