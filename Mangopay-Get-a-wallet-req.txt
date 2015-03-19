@@ -1,0 +1,4 @@
+GROUP-NAME:Wallets
+PAIR-NAME:Get a wallet
+GET /wallets/{wallet_id}
+
