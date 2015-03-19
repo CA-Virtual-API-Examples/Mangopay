@@ -1,0 +1,4 @@
+GROUP-NAME:Wallets
+PAIR-NAME:List wallet transactions
+GET /wallets/{wallet_id}/transactions
+
