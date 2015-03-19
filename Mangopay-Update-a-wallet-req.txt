@@ -1,0 +1,7 @@
+GROUP-NAME:Wallets
+PAIR-NAME:Update a wallet
+PUT /wallets/{wallet_id}
+
+{
+"Description": "A very cool wallet edited"
+}
