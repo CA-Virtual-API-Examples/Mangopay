@@ -1,0 +1,19 @@
+GROUP-NAME:Users
+PAIR-NAME:Create a natural user
+POST /users/natural
+
+{
+"FirstName": "a first name",
+"LastName": "a last name",
+"Address": "an address",
+"Birthday": 1300186358,
+"Nationality": "FR",
+"CountryOfResidence": "FR",
+"Occupation": "an occupation", 
+"IncomeRange": 6, 
+"ProofOfIdentity": null,
+"ProofOfAddress": null, 
+"PersonType": "NATURAL", 
+"Email": "an email", 
+"Tag": "a tag"
+}
