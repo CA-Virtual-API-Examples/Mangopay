@@ -1,0 +1,85 @@
+200
+
+[
+    {
+        "Id": "1174821",
+        "Tag": null,
+        "CreationDate": 1385638751,
+        "AuthorId": "{user_id}",
+        "CreditedUserId": null,
+        "DebitedFunds": {
+            "Currency": "EUR",
+            "Amount": 500
+        },
+        "CreditedFunds": {
+            "Currency": "EUR",
+            "Amount": 500
+        },
+        "Fees": {
+            "Currency": "EUR",
+            "Amount": 0
+        },
+        "Status": "SUCCEEDED",
+        "ResultCode": "000000",
+        "ResultMessage": "Success",
+        "ExecutionDate": 1385638752,
+        "Type": "PAYOUT",
+        "Nature": "REFUND",
+        "CreditedWalletId": null,
+        "DebitedWalletId": "1174774"
+    },
+    {
+        "Id": "1174837",
+        "Tag": "my payin",
+        "CreationDate": 1385639425,
+        "AuthorId": "{user_id}",
+        "CreditedUserId": "{user_id}",
+        "DebitedFunds": {
+            "Currency": "USD",
+            "Amount": 5000
+        },
+        "CreditedFunds": {
+            "Currency": "USD",
+            "Amount": 4900
+        },
+        "Fees": {
+            "Currency": "USD",
+            "Amount": 100
+        },
+        "Status": "SUCCEEDED",
+        "ResultCode": "000000",
+        "ResultMessage": "Success",
+        "ExecutionDate": 1385639427,
+        "Type": "PAYIN",
+        "Nature": "REGULAR",
+        "CreditedWalletId": "1174776",
+        "DebitedWalletId": null
+    },
+    {
+        "Id": "1174839",
+        "Tag": "my payin",
+        "CreationDate": 1385639708,
+        "AuthorId": "{user_id}",
+        "CreditedUserId": "{user_id}",
+        "DebitedFunds": {
+            "Currency": "EUR",
+            "Amount": 1000
+        },
+        "CreditedFunds": {
+            "Currency": "EUR",
+            "Amount": 900
+        },
+        "Fees": {
+            "Currency": "EUR",
+            "Amount": 100
+        },
+        "Status": "FAILED",
+        "ResultCode": "101001",
+        "ResultMessage": "The user does not complete transaction",
+        "ExecutionDate": null,
+        "Type": "PAYIN",
+        "Nature": "REGULAR",
+        "CreditedWalletId": "1174774",
+        "DebitedWalletId": null
+    }
+]
