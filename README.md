@@ -1,7 +1,7 @@
 # Mangopay
 
-This API is a virtualized sample of the Mangopay REST API.  Full details of the latter can be found at
-https://docs.mangopay.com/api-references.
+This API is a virtualized sample of the Mangopay REST API.  Full details of the latter can be found 
+at https://docs.mangopay.com/api-references.
 
 The virtualized sample API is divided into the following groups: Users, Wallets.
 
