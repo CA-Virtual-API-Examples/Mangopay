@@ -8,7 +8,7 @@
 "Nationality": "FR",
 "CountryOfResidence": "FR",
 "Occupation": "an occupation",
-"IncomeRange": 6,
+"IncomeRange": "6",
 "ProofOfIdentity": null,
 "ProofOfAddress": null,
 "PersonType": "NATURAL",
